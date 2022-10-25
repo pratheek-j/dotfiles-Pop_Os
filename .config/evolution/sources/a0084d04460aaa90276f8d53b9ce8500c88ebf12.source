@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=pratheek.rj@gmail.com
+Enabled=true
+Parent=af7750e971992e23fbec6f3e18aeec548f26fe96
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=8e388be3c2692b88b7cca0e99ed93912d7915669
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=pratheek.rj@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
